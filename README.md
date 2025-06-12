@@ -1,0 +1,1 @@
+# Kolinearnost-i-normalnost-vektora
